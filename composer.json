@@ -30,7 +30,7 @@
   "require": {
     "php": ">=7.0.0",
     "composer/installers": "~1.0",
-    "nwidart/laravel-menus": "~1.0",
+    "nwidart/laravel-menus": "~2.0",
     "typicms/nestablecollection": "1.1"
   },
   "require-dev": {
